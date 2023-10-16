@@ -6,7 +6,6 @@ import { TabsModule } from 'ngx-bootstrap/tabs';
 import { NgxGalleryModule } from '@kolkov/ngx-gallery';
 import { NgxSpinnerModule } from 'ngx-spinner';
 
-
 @NgModule({
   declarations: [],
   imports: [
@@ -26,7 +25,7 @@ import { NgxSpinnerModule } from 'ngx-spinner';
     ToastrModule,
     TabsModule,
     NgxGalleryModule,
-    NgxSpinnerModule 
+    NgxSpinnerModule
   ]
 })
 export class SharedModule { }
