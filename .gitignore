@@ -478,6 +478,6 @@ $RECYCLE.BIN/
 API/appsettings.json
 client/ssl/server.crt
 client/ssl/server.key
-API/datingapp.db
-API/datingapp.db-shm
-API/datingapp.db-wal
+*.db
+*.db-shm
+*.db-wal
